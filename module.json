@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-pages",
+    "name": "Pages",
+    "author": "Tukecx",
+    "description": "Pages management package",
+    "namespace": "Tukecx\\Base\\Pages",
+    "autoload": "psr-4"
+}
